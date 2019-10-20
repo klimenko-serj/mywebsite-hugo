@@ -1,0 +1,58 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "KLYMENKO SERHII"
+
+theme = "coder-portfolio" # Set the theme.
+languagecode = "en" # The site’s language code used to generate RSS.
+defaultcontentlanguage = "en" # The default content language.
+
+[params]
+    author = "KLYMENKO SERHII"
+    description = "Klymenko Serhii's personal website"
+    keywords = "blog,developer,personal"
+    info = "SOFTWARE ENGINEER"
+    avatarurl = "images/serj_avatar.jpg"
+    footercontent = "Enter a text here."
+    fixedbarContent = "Do you want to know me more private?→"
+    fixedbarContentAfter = "Thank You! Please share it if you like it→"
+
+    hideCredits = false
+    hideCopyright = false
+
+    # Bottom sns share
+    snsShare = true
+    # Popular sns share
+    # if you want add sns. please message!
+    enableTwitterShare = true
+    enableFacebookShare = true
+    enableLinkedInShare = true
+
+    # thumbnail = "images/tn.png"
+
+    # Custom CSS
+    custom_css = []
+
+    # Alignment of Mobile Menu items
+    itemscentered = true
+
+    # RTL support
+    rtl = false
+
+    langseparator = "|"
+
+[[params.social]]
+    name = "Github"
+    icon = "fab fa-github"
+    weight = 1
+    url = "https://github.com/klimenko-serj"
+[[params.social]]
+    name = "LinkedIn"
+    icon = "fab fa-linkedin"
+    weight = 2
+    url = "https://www.linkedin.com/in/serhii-klymenko-798205185/"
+[[params.social]]
+    name = "Facebook"
+    icon = "fab fa-facebook"
+    weight = 3
+    url = "https://www.facebook.com/klimenko.sergej"
+
