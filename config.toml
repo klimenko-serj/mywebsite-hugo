@@ -85,7 +85,7 @@ defaultcontentlanguage = "en" # The default content language.
         # You can configure the theme parameter for each language.
         [languages.ua.params]
             author = "Клименко Сергій"
-            info = "ІНЖЕНЕР-ПРОГРАМІСТ"
+            info = "ПРОГРАМІСТ"
             description = "Персональна сторінка Сергія Клименка"
             keywords = "blog,developer,personal"
 
