@@ -27,7 +27,7 @@ defaultcontentlanguage = "en" # The default content language.
     enableFacebookShare = true
     enableLinkedInShare = true
 
-    # thumbnail = "images/tn.png"
+    thumbnail = "images/tn.png"
 
     # Custom CSS
     custom_css = []
@@ -75,7 +75,7 @@ defaultcontentlanguage = "en" # The default content language.
             [[languages.en.menu.main]]
                 name = "About"
                 weight = 1.0
-                url = "about"
+                url = "about/"
 
             # [[languages.en.menu.main]]
             #     name = "Blog"

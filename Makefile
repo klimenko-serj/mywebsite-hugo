@@ -5,5 +5,6 @@ server:
 deploy:
 	hugo -d ../klimenko-serj.github.io && \
 	cd ../klimenko-serj.github.io && \
+	git add . && \
 	git commit -am"new version" && \
-	git push
+	git push origin master
