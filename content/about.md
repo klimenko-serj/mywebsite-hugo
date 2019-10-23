@@ -15,7 +15,7 @@ draft: false
 
 
 
-##### Programming Languages (I use it in production): #####
+##### Programming Languages (I use it in production) #####
 
 
 - Clojure / ClojureScript (3 years)
@@ -33,27 +33,29 @@ draft: false
 
 ---
 
-###### Small additional (production) experience: ######
+###### Small additional (production) experience ######
 
 - Python
 - Ruby
 - VisualBasic
 
-###### Just For fun: ######
+###### Just For fun ######
+
+Sometimes I need to break my brain :)
 
 - Common Lisp
 - Haskell
 
 ---
 
-##### Other technologies: #####
+##### Other technologies #####
 
-- SQL:
+- SQL
     - Firebird
     - PostgreSQL
     - MS SQL Server
     - MySQL
-- NoSQL:
+- NoSQL
     - MongoDB
     - CouchDB
     - Datomic
