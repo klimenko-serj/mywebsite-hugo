@@ -65,7 +65,7 @@ defaultcontentlanguage = "en" # The default content language.
 
         # You can configure the theme parameter for each language.
         [languages.en.params]
-            author = "Klimenko Serhii"
+            author = "Klymenko Serhii"
             info = "SOFTWARE ENGINEER"
             description = "Klimenko Serhii's personal website"
             keywords = "blog,developer,personal"
@@ -80,11 +80,11 @@ defaultcontentlanguage = "en" # The default content language.
     [languages.ua]
         languagecode = "ua"
         languagename = "Українська" # The language name to be displayed in the selector.
-        title = "Клименко Сергій"
+        title = "Сергій Клименко"
 
         # You can configure the theme parameter for each language.
         [languages.ua.params]
-            author = "Клименко Сергій"
+            author = "Сергій Клименко"
             info = "ПРОГРАМІСТ"
             description = "Персональна сторінка Сергія Клименка"
             keywords = "blog,developer,personal"
